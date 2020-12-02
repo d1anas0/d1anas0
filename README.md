@@ -9,6 +9,6 @@ I'm spending as much time as I can to continue to develop my coding and designin
 Check out some of the things I've been working on! If you have any suggestions, please don't hesitate to get in touch, I thrive in collaborative environments and is always eager to meet new people and listen to your stories :relaxed:
 
 You can find me here: 
-- LinkedIn: linkedin.com/in/dianaso
-- Instagram: instagram.com/d1anas0
+- LinkedIn: (https://www.linkedin.com/in/dianaso)
+- Instagram: (www.instagram.com/d1anas0)
 - *Personal website portfolio: Watch this space! I'm getting there :blush:*
