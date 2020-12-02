@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi There! 👋
 
-<!--
-**d1anas0/d1anas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diana is my name, and as you can see I'm an emerging Web Developer, UX designer.
 
-Here are some ideas to get you started:
+I have a degree in both **Psychology** and **Food Science & Nutrition**, and has had a successful career in food safety management. However, I was craving a career where I could flex my lateral thinking muscles; be in environments where we can try things, explore new, crazy, or even the worst ideas! Have fun, and also make the magic happen. So, I retrained as a web developer, and is also studying design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm spending as much time as I can to continue to develop my coding and designing skills (HTML, CSS, JavaScript, git, Testing (Jasmine), Design Thinking, Adobe Creative Cloud, Miro, Bootstrap...); so that I can build human-centric creative solutions.
+
+Check out some of the things I've been working on! If you have any suggestions, please don't hesitate to get in touch, I thrive in collaborative environments and is always eager to meet new people and listen to your stories :relaxed:
+
+You can find me here: 
+LinkedIn: linkedin.com/in/dianaso
+Instagram: instagram.com/d1anas0
+Personal website portfolio: Watch this space! I'm getting there :blush:
