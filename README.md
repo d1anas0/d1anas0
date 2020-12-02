@@ -1,6 +1,6 @@
 ### Hi There! 👋
 
-Diana is my name, and as you can see I'm an emerging Web Developer, UX designer.
+Call me D, an emerging Web Developer, UX designer :smirk:.
 
 I have a degree in both **Psychology** and **Food Science & Nutrition**, and has had a successful career in food safety management. However, I was craving a career where I could flex my lateral thinking muscles; be in environments where we can try things, explore new, crazy, or even the worst ideas! Have fun, and also make the magic happen. So, I retrained as a web developer, and is also studying design. 
 
