@@ -6,7 +6,7 @@ I have a degree in both **Psychology** and **Food Science & Nutrition**, and has
 
 I'm spending as much time as I can to continue to develop my coding and designing skills (HTML, CSS, JavaScript, git, Testing (Jasmine), Design Thinking, Adobe Creative Cloud, Miro, Bootstrap...); so that I can build human-centric creative solutions.
 
-Check out some of the things I've been working on! If you have any suggestions, please don't hesitate to get in touch, I thrive in collaborative environments and is always eager to meet new people and listen to your stories :relaxed:
+Check out some of the things I've been working on! If you have any suggestions or feedback, please don't hesitate to get in touch, I thrive in collaborative environments, welcome any feedback that can help me learn, and is always eager to meet new people and listen to your stories :relaxed:
 
 You can find me here: 
 - LinkedIn: (https://www.linkedin.com/in/dianaso)
