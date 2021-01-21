@@ -1,5 +1,3 @@
-## Hi There! 👋
-
 # Call me D, an emerging Web Developer, UX designer.
 # :point_left:Literally :smirk:.
 
