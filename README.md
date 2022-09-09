@@ -1,4 +1,4 @@
-# Call me D, an emerging Web Developer, UX designer.
+# Call me D, a Fullstack Software Engineer, UX designer.
 # :point_left:Literally :smirk:.
 
 I have a degree in both **Psychology** and **Food Science & Nutrition**, and has had a successful career in food safety management. However, I craved more opportunities to flex my lateral thinking muscles; to be in environments where we can try things, explore new, crazy, or even the worst ideas! Have fun, and also make the magic happen. So, I retrained as a web developer, and studied design. 
